@@ -1,1 +1,3 @@
-**here are powershell help**
+#PowerShell Commands:
+
+- ls/dir | Lists all files or child directories.
