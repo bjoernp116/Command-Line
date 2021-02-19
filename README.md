@@ -1,5 +1,5 @@
 # Command-Line
-A help for all the Command Line Tools you will ever Need!
+A Tutorial for all the Command Line Tools you will ever Need!
 
 ## Current CLI's Supported:
 - PowerShell
